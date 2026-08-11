@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./network-banner.png" width="100%" alt="Yokesh K - Network Administrator">
+</p>
 # 👋 Hi, I'm Yokesh K
 
 ### 🌐 Network Administrator | System Administration | IT Infrastructure
